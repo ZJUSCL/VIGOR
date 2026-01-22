@@ -1,0 +1,15 @@
+openr1_intuitor/
+data/
+wandb/
+run_intuitor.log
+*.log
+logs/
+det_yaml/
+.venv_lighteval/
+task_registry.json
+.github/
+assets/
+.venv/
+.venv_py31113/
+Intuitor.tar.gz
+project_backup.tar.gz

@@ -176,7 +176,7 @@ platformdirs==4.5.0
 ply==3.11
 portalocker==3.2.0
 prometheus-fastapi-instrumentator==7.1.0
-prometheus_client==0.22.1
+prometheus_client==0.24.1
 prompt_toolkit==3.0.52
 propcache==0.4.1
 proto-plus==1.27.0

@@ -49,7 +49,7 @@ docstring_parser==0.17.0
 einops==0.8.1
 email-validator==2.3.0
 executing==2.2.1
-fastapi==0.116.2
+fastapi==0.128.0
 fastapi-cli==0.0.11
 fastapi-cloud-cli==0.1.5
 fastrlock==0.8.3
